@@ -365,18 +365,6 @@ public class CabiSENA extends JFrame implements ActionListener{
         }
     }
      String Nombre,Tiempo,Tipos,Operadoress,Descuentos,TotalP,TotalaP,Porcentaje;
-                    
-    
-//       private void pruebas(){
-//        int n1=1;
-//        int n2=op.getSelectedIndex();
-//        if(n2==1){
-//         String resultado="heheayuwok";
-//          xd.setText(String.valueOf(resultado));
-//        }else{
-//            JOptionPane.showMessageDialog(null,"Contraseña y/o Usuario Incorrectos");
-//        }
-//    }
     
   public void Consultas(){
         TipLla = new JPanel();
